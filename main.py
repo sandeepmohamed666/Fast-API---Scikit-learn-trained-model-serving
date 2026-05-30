@@ -27,6 +27,7 @@ def predict(data: ModelInput):
 
 # Install requirements
 # python -m pip install --upgrade pip
+# pip install "fastapi[standard]"
 # pip install "fastapi[standard]" scikit-learn numpy
 
 # fastapi dev main.py
